@@ -29,3 +29,5 @@
 ## 📱 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jermell-riddick-83b01721b/)
+
+[![CourseCareers](https://img.shields.io/badge/CourseCareers-0056D5?style=for-the-badge&logo=coursehero&logoColor=white)](https://profile.coursecareers.com/it/jermell.santiago-riddick)
