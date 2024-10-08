@@ -4,34 +4,27 @@
 ## ⚙️ Information Technology Projects:
 
 - **osTicket (Help Desk Ticketing System)** 📝
-  - [osTicket: Prerequisites and Installation](#)
-  - [osTicket: Post-Installation Configuration](#)
-  - [osTicket: Ticket Lifecycle Examples](#)
+  - [osTicket: Prerequisites and Installation](https://github.com/mellymelltech/osTicket-Prerequisites-and-Installation)
+  - [osTicket: Post-Installation Configuration](https://github.com/mellymelltech/osTicket-Post-Installation-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/mellymelltech/osTicket-Ticket-Lifecycle-Examples)
 
 - **Microsoft Azure** ☁️
-  - [Configuring On-Premises Active Directory within Azure VMs](#)
-  - [DNS Management of A-Records, CNAME Records, and Local DNS Cache](#)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](#)
+  - [Cloud Infrastructure Setup (IaC)](https://github.com/mellymelltech/Cloud-Infrastructure-Setup-IaC-)
 
-- **Cloud Infrastructure (IaC)** 🛠️
-  - [AWS CloudFormation for Web App Deployment](#)
-  - [Automating Resource Provisioning with Terraform](#)
+- **IT Documentation Website** 📚
+  - [IT Documentation Website](https://github.com/mellymelltech/IT-Documentation-Website)
 
 - **System Health Checker** 🔍
-  - [Python Script to Monitor System Performance and Send Alerts](#)
-  - [Integrating Slack Notifications for System Health Checks](#)
+  - [Automated System Health Checker](https://github.com/mellymelltech/Automated-System-Health-Checker)
 
 - **Network Troubleshooting Toolkit** 🛡️
-  - [Automating Network Diagnostics using Python](#)
-  - [Network Bandwidth Monitoring with SNMP](#)
+  - [Network Troubleshooting Toolkit](https://github.com/mellymelltech/-Network-Troubleshooting-Toolkit)
 
 - **POS System Prototype** 💳
-  - [Building a POS System with React and Node.js](#)
-  - [Managing Inventory and Sales Data with MySQL](#)
+  - [POS System Prototype](https://github.com/mellymelltech/-POS-System-Prototype)
 
 - **Active Directory Automation** 🔐
-  - [PowerShell Scripting for User Management in Active Directory](#)
-  - [Bulk User Creation and Password Management](#)
+  - [Active Directory User Management Automation](https://github.com/mellymelltech/Active-Directory-User-Management-Automation-)
 
 ## 📱 Connect with me:
 
